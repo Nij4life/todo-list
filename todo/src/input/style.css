@@ -1,0 +1,9 @@
+input[type=text] {
+	margin-left: 10%;
+	width: 60%;
+}
+
+button {
+	margin-left: 10px; 
+	background: red;
+}
